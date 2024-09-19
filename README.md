@@ -1,2 +1,2 @@
 # Internet-Speed-Tester
-Speed checker
+Open for public
